@@ -1,0 +1,3 @@
+class Carrito{
+	int ruedas;
+}
